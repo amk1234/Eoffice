@@ -309,7 +309,7 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href=""><i class="fa fa-circle-o"></i>Create Invoice</a></li>
+            <li><a href="create-invoice.php"><i class="fa fa-circle-o"></i>Create Invoice</a></li>
             <li><a href=""><i class="fa fa-circle-o"></i>All Invoice</a></li>
              <li><a href=""><i class="fa fa-circle-o"></i>Processing Order</a></li>
              <li><a href=""><i class="fa fa-circle-o"></i>Pending Shipment</a></li>
