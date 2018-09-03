@@ -1,0 +1,11 @@
+.custom-table{
+    width:60%;
+}
+.custom-table tr td{
+    
+    border-bottom:solid 1px #F4F4F4;
+    padding:10px 10px!important;
+}
+.table tr td a i{
+    padding:0px 10px;
+}
