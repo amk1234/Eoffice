@@ -140,7 +140,7 @@ include 'includes/header.php' ?>
                   
                 </tr>
                 <tr>
-                  <td>2</td>  
+                  <td>23    </td>  
                   <td>
                       <select class="form-control" name="product_select">
                           <option>Select Product</option>
@@ -164,7 +164,7 @@ include 'includes/header.php' ?>
                 </tr>
                 <tr>
                     <th colspan="4"></th>
-                    <td>Tax</td>
+                    <td>Tax1233</td>
                     <td><input type="text" class="form-control" name="product_tax" readonly="" value="0"></td>
                 </tr>
                 <tr>
