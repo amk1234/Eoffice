@@ -26,7 +26,7 @@ include 'includes/header.php' ?>
 
           <div class="box">
             <div class="box-header" style="padding:50px 20px;">
-               <a href="" class="btn btn-success">Add New Customer</a>
+               <a href="add-new-customer.php" class="btn btn-success">Add New Customer</a>
                <a href="" class="btn btn-danger">Import</a>
                
             </div>
