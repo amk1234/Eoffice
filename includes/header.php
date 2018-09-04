@@ -309,13 +309,11 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="create-invoice.php"><i class="fa fa-circle-o"></i>Create Invoice</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>All Invoice</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Processing Order</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Pending Shipment</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Delivered Order</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Quotation</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>All Quotation</a></li>
+        <li><a href="create-invoice.php"><i class="fa fa-circle-o"></i>Create Invoice</a></li>
+            <li><a href="all-invoice.php"><i class="fa fa-circle-o"></i>All Invoice</a></li>
+             <li><a href="processing-order.php"><i class="fa fa-circle-o"></i>Processing Order</a></li>
+             <li><a href="pending-shipment.php"><i class="fa fa-circle-o"></i>Pending Shipment</a></li>
+             <li><a href="delivered-order-list.php"><i class="fa fa-circle-o"></i>Delivered Order</a></li>
           </ul>
         </li>
        <!--SALES-->
@@ -329,9 +327,9 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href=""><i class="fa fa-circle-o"></i> New Purchase</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Purchase List</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Received Products</a></li>
+            <li><a href="new-purchase.php"><i class="fa fa-circle-o"></i> New Purchase</a></li>
+            <li><a href="purchase-list.php"><i class="fa fa-circle-o"></i>Purchase List</a></li>
+             <li><a href="received-products.php"><i class="fa fa-circle-o"></i>Received Products</a></li>
             
           </ul>
         </li>
@@ -347,9 +345,9 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href=""><i class="fa fa-circle-o"></i> Product List</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Import Product</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Category</a></li>
+            <li><a href="product-list.php"><i class="fa fa-circle-o"></i> Product List</a></li>
+            <li><a href="import-product.php"><i class="fa fa-circle-o"></i>Import Product</a></li>
+             <li><a href="category-list.php"><i class="fa fa-circle-o"></i>Category</a></li>
             
           </ul>
         </li>

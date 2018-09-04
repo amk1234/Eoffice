@@ -19,74 +19,7 @@ include 'includes/header.php' ?>
         
         
       <!-- Small boxes (Stat box) -->
-      <div class="row">
-        <div class="col-lg-3 col-xs-6">
-          <!-- small box -->
-          <a href="">
-              <div class="small-box bg-aqua">
-            <div class="inner">
-                <center><h3>$ 150</h3>
-
-              <p><small>14</small> Overdue</p>
-                </center>
-            </div>
-           
-           
-          </div>
-          </a>
-        </div>
-          
-         <div class="col-lg-3 col-xs-6">
-          <!-- small box -->
-          <a href="">
-              <div class="small-box bg-green">
-            <div class="inner">
-                <center><h3>$ 150</h3>
-
-              <p><small>14</small> Estimate</p>
-                </center>
-            </div>
-           
-           
-          </div>
-          </a>
-        </div>
-          
-        <div class="col-lg-3 col-xs-6">
-          <!-- small box -->
-          <a href="">
-              <div class="small-box bg-red">
-            <div class="inner">
-                <center><h3>$ 150</h3>
-
-              <p><small>14</small> Open Invoice</p>
-                </center>
-            </div>
-           
-           
-          </div>
-          </a>
-        </div>
-          
-         <div class="col-lg-3 col-xs-6">
-          <!-- small box -->
-          <a href="">
-              <div class="small-box bg-orange">
-            <div class="inner">
-                <center><h3>$ 150</h3>
-
-              <p><small>14</small> Life Time Sell</p>
-                </center>
-            </div>
-           
-           
-          </div>
-          </a>
-        </div>
-        
-        
-        <!-- ./col -->
-      </div>
+     
       <!-- /.row -->
       <!-- Main row -->
      <div class="row">
@@ -105,7 +38,7 @@ include 'includes/header.php' ?>
             </div>
               
             <div class="box-header">
-              <h3 class="box-title">Invoice List</h3>
+              <h3 class="box-title">Purchase List</h3>
             </div>
             <!-- /.box-header -->
             <div class="box-body">
@@ -114,31 +47,33 @@ include 'includes/header.php' ?>
                 <tr>
 	       
                   <th>Date</th>
-                  <th>Order No</th>
-                  <th>Customer</th>
-                  <th>Due Date</th>
+                  <th>Purchase No</th>
+                  <th>Supplier</th>
+                  <th>Status</th>
                   <th>Grand Total</th>
                   <th>Paid</th>
                   <th>Balance</th>
-                  <th>Order Status</th>
                   <th>Actions</th>
+                
+                  
+                 
                   
                   
                 </tr>
                 </thead>
                 <tbody>
+                    
                 <tr>
 	     
                   <td>2018-08-12</td>
-                  <td>24</td>
-                  <td>LDA</td>
-                  <td>2018-08-12</td>
-                  <td>4,500</td>
+                  <td>1014</td>
+                  <td>Enviro</td>
+                  <td>Pending Recieved</td>
+                  <td>2864.00</td>
                   <td>0.00</td>
-                  <td>4000</td>
-                  <td>Processing</td>
+                  <td>2845</td>
                   <td>
-                    <div class="dropdown">
+                       <div class="dropdown">
                 <button class="btn btn-default"
                         data-toggle="dropdown">
                     <span id="dropdown_title2">Actions</span>
@@ -151,11 +86,13 @@ include 'includes/header.php' ?>
                     <li><a href="">View Payment</a></li>
                     <li><a href="">PDF Invoice</a></li>
                     <li><a href="">Email Invoice</a></li>
-                    <li><a href="">Cancel Order</a></li>
+                    <li><a href="">Recieved Product</a></li>
+                    <li><a href="">Return Purchase</a></li>
                     <li><a href="">Delete</a></li>
                 </ul>
                 </div>
                   </td>
+                  
                   
                 </tr>
 	    
