@@ -362,11 +362,9 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href=""><i class="fa fa-circle-o"></i> Add Transaction</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Transaction List</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Chart of Accounts</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Income Categories</a></li>
-             <li><a href=""><i class="fa fa-circle-o"></i>Expense Categories</a></li>
+            <li><a href="add-transaction.php"><i class="fa fa-circle-o"></i> Add Transaction</a></li>
+            <li><a href="transaction-list.php"><i class="fa fa-circle-o"></i>Transaction List</a></li>
+            
             
           </ul>
         </li>
@@ -381,8 +379,8 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href=""><i class="fa fa-circle-o"></i>Add Asset</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Asset List</a></li>
+            <li><a href="add-asset.php"><i class="fa fa-circle-o"></i>Add Asset</a></li>
+            <li><a href="asset-list.php"><i class="fa fa-circle-o"></i>Asset List</a></li>
           </ul>
         </li>
        <!--DEPRECIATION-->
@@ -396,15 +394,9 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href=""><i class="fa fa-circle-o"></i>Add Employee</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Import Employee</a></li>
+            <li><a href="add-employee.php"><i class="fa fa-circle-o"></i>Add Employee</a></li>
             <li><a href=""><i class="fa fa-circle-o"></i>Employee List</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Terminated Employee</a></li>
             <li><a href=""><i class="fa fa-circle-o"></i>Employee Award</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Set Attendance</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Import Attendance</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Attendance Report</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Application List</a></li>
             <li><a href=""><i class="fa fa-circle-o"></i>Reimbursement</a></li>
           </ul>
         </li>
