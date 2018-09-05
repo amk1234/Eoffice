@@ -395,9 +395,9 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="add-employee.php"><i class="fa fa-circle-o"></i>Add Employee</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Employee List</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Employee Award</a></li>
-            <li><a href=""><i class="fa fa-circle-o"></i>Reimbursement</a></li>
+            <li><a href="employee-list.php"><i class="fa fa-circle-o"></i>Employee List</a></li>
+            <li><a href="employee-award.php"><i class="fa fa-circle-o"></i>Employee Award</a></li>
+            <li><a href="reimbursement-list.php"><i class="fa fa-circle-o"></i>Reimbursement</a></li>
           </ul>
         </li>
        <!--EMPLOYEE-->
