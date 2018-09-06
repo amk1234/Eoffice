@@ -82,12 +82,20 @@ include 'includes/header.php' ?>
                                 <td>
                                     <input type="date" name="invoice_due_date">
                                 </td>
-                            </tr>
-                            
-                            
-                            
+                            </tr>    
                         </table>
-                          
+                        <script>
+                        $(document).ready(function(){
+                            
+                        });
+                        </script>  
+                        
+                        
+                        
+                        
+                        
+                        
+                        
                       </div>
                     </div>
 

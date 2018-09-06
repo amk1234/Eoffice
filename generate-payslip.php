@@ -7,7 +7,7 @@ include 'includes/header.php' ?>
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-        Make Payment
+        Generate PaySlip
       </h1>
 <!--      <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -37,7 +37,7 @@ include 'includes/header.php' ?>
                             <tr>
                                 <td>Department</td>
                                 <td>
-                                    <select class="form-control" name="make_payment_department">
+                                    <select class="form-control" name="generate_payslip_department">
                                         <option>Select Department</option>
                                        
                                     </select>
@@ -47,7 +47,7 @@ include 'includes/header.php' ?>
                                 <td>Employee</td>
                                 
                                 <td>
-                                    <select class="form-control" name="make_payment_employee">
+                                    <select class="form-control" name="generate_payslip_employee">
                                         <option>Select</option>
                                        
                                     </select>
@@ -55,7 +55,7 @@ include 'includes/header.php' ?>
                             </tr>
                             <tr>
                                 <td>Month</td>
-                                <td><input type="date" class="form-control" name="make_payment_date"></td>
+                                <td><input type="date" class="form-control" name="generate_payslip_date"></td>
                             </tr>
                             
                             
@@ -66,12 +66,11 @@ include 'includes/header.php' ?>
                     </div>
 
                     
-
-         <div class="col-md-12">
+<div class="col-md-12">
                      
 
                        <div class="box-footer">
-                           <a href="set-employee-payment.php" class="btn btn-primary">Go</a>
+                           <a href="monthly-salary-generate.php" class="btn btn-primary">Go</a>
               </div>
 
                     </div>
