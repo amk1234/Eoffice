@@ -9,3 +9,7 @@
 .table tr td a i{
     padding:0px 10px;
 }
+select{
+    overflow: scroll;
+    height:50px;
+}
