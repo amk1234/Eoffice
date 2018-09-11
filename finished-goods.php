@@ -46,9 +46,10 @@ include 'includes/header.php' ?>
                   <th>ID</th>
                   <th>Item</th>
                   <th>Qty</th>
+                  <th>Available Qty</th>
                   <th>Unit of Measurement</th>
                   <th> Total</th>
-                  
+                  <th>Action</th>
                  
                   
                 </tr>
@@ -57,11 +58,18 @@ include 'includes/header.php' ?>
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Item Name</td>
-                        <td>Qyty</td>
-                        <td>qty</td>
-                        <td>1400</td>
-                       
+                        <td>
+                           Item Name
+                        </td>
+                        <td>Item Quantity</td>
+                        <td>Item Available Qty</td>
+                        <td>Unity Of Purchase</td>
+                        <td>Total</td>
+                        <td>
+                            <a href=""><i class="fa fa-edit"></i></a>
+                            <a href=""><i class="fa fa-trash"></i></a>
+                            
+                        </td>
                     </tr>
 	    
                 

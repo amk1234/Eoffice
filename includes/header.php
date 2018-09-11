@@ -346,10 +346,10 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="new-purchase.php"><i class="fa fa-circle-o"></i> Raw Material</a></li>
-            <li><a href="purchase-list.php"><i class="fa fa-circle-o"></i>Work In Progress</a></li>
-             <li><a href="received-products.php"><i class="fa fa-circle-o"></i>Finished Goods</a></li>
-             <li><a href="received-products.php"><i class="fa fa-circle-o"></i>Tools</a></li>
+            <li><a href="raw-material.php"><i class="fa fa-circle-o"></i> Raw Material</a></li>
+            <li><a href="work-in-progress.php"><i class="fa fa-circle-o"></i>Work In Progress</a></li>
+             <li><a href="finished-goods.php"><i class="fa fa-circle-o"></i>Finished Goods</a></li>
+             <li><a href=""><i class="fa fa-circle-o"></i>Tools</a></li>
             
           </ul>
         </li>

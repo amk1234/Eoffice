@@ -46,6 +46,7 @@ include 'includes/header.php' ?>
                   <th>ID</th>
                   <th>Item</th>
                   <th>Qty</th>
+                  <th>Available Qty</th>
                   <th>Unit of Measurement</th>
                   <th> Total</th>
                   <th>Action</th>
@@ -56,12 +57,15 @@ include 'includes/header.php' ?>
                 
                 <tbody>
                     <tr>
-                        <td>1</td>
-                        <td>Item Name</td>
+                        <td><input type="text" class="form-control" name="raw_material_id"></td>
+                        <td>
+                            <input type="text" class="form-control" name="raw_material_item">
+                        </td>
                         <td><input type="text" class="form-control" name="raw_material_qty"></td>
+                        <td><input type="text" class="form-control" name="available_qty"></td>
                         <td><input type="text" class="form-control" name="raw_material_unit"></td>
-                        <td>1400</td>
-                        <td><a href="" class="btn btn-success">Submit To Production</a></td>
+                        <td><input type="text" class="form-control" name="raw_material_total"></td>
+                        <td><a href="" class="btn btn-success btn-xs">Submit To Production</a></td>
                     </tr>
 	    
                 
