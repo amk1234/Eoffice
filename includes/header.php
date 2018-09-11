@@ -334,6 +334,27 @@
           </ul>
         </li>
        <!--PURCHASE-->
+       
+       
+       <!--STORE-->
+        <!--PURCHASE-->
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-dashboard"></i> <span>Store</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="new-purchase.php"><i class="fa fa-circle-o"></i> Raw Material</a></li>
+            <li><a href="purchase-list.php"><i class="fa fa-circle-o"></i>Work In Progress</a></li>
+             <li><a href="received-products.php"><i class="fa fa-circle-o"></i>Finished Goods</a></li>
+             <li><a href="received-products.php"><i class="fa fa-circle-o"></i>Tools</a></li>
+            
+          </ul>
+        </li>
+       <!--PURCHASE-->
+       <!--STORE-->
       
       
        <!--PRODUCT & SERVICES-->
