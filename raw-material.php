@@ -65,7 +65,7 @@ include 'includes/header.php' ?>
                         <td><input type="text" class="form-control" name="available_qty"></td>
                         <td><input type="text" class="form-control" name="raw_material_unit"></td>
                         <td><input type="text" class="form-control" name="raw_material_total"></td>
-                        <td><a href="" class="btn btn-success btn-xs">Submit To Production</a></td>
+                        <td><a href="" class="btn btn-success btn-xs">Submit</a></td>
                     </tr>
 	    
                 
