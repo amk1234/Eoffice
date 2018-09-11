@@ -13,3 +13,6 @@ select{
     overflow: scroll;
     height:50px;
 }
+table.dataTable{
+    width:95%!important;
+}
