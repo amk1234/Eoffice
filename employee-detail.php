@@ -8,7 +8,7 @@ include 'includes/header.php' ?>
         User Profile
       </h1>
      
-    </section>
+    </section>    
 
     <!-- Main content -->
     <section class="content">
