@@ -5,7 +5,7 @@ include 'includes/header.php' ?>
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-        User Profile
+        User Profile   
       </h1>
      
     </section>    
